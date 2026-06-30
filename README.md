@@ -1,16 +1,45 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Quiz Application (React.js)
 
-Currently, two official plugins are available:
+An interactive Quiz Application built with React.js and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Multiple-choice questions
+- Next and Previous navigation
+- Dynamic score calculation
+- State management with React Hooks (`useState`)
+- Responsive UI
 
-## React Compiler
+## Technologies Used
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Getting Started
 
-## Expanding the ESLint configuration
+### Clone the repository
+```bash
+git clone https://github.com/your-username/quiz-application-react.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Install dependencies
+```bash
+npm install
+```
+
+### Run the development server
+```bash
+npm run dev
+```
+
+## Author
+Sobhraj Rajput
+
+<img width="1917" height="960" alt="Screenshot 2026-07-01 001658" src="https://github.com/user-attachments/assets/d840ba98-d866-4c59-b90c-18d6d4a2b5a7" />
+<img width="1917" height="972" alt="2" src="https://github.com/user-attachments/assets/f2a8141b-5b73-46e1-ba81-06707427a499" />
+<img width="1917" height="962" alt="3" src="https://github.com/user-attachments/assets/502d6b10-89cf-458a-857d-22150021a528" />
+<img width="1917" height="962" alt="4" src="https://github.com/user-attachments/assets/5531f7ae-8ba9-4fe9-b3fa-eb494a9596cf" />
+<img width="1917" height="966" alt="5" src="https://github.com/user-attachments/assets/b8542b64-ffa0-42e8-8c63-fd8bded741ec" />
